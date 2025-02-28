@@ -1,0 +1,14 @@
+D:\Course Helper\repo\Csharp-Code-Challenge\bin\Debug\net9.0\Csharp-Code-Challenge.exe
+D:\Course Helper\repo\Csharp-Code-Challenge\bin\Debug\net9.0\Csharp-Code-Challenge.deps.json
+D:\Course Helper\repo\Csharp-Code-Challenge\bin\Debug\net9.0\Csharp-Code-Challenge.runtimeconfig.json
+D:\Course Helper\repo\Csharp-Code-Challenge\bin\Debug\net9.0\Csharp-Code-Challenge.dll
+D:\Course Helper\repo\Csharp-Code-Challenge\bin\Debug\net9.0\Csharp-Code-Challenge.pdb
+D:\Course Helper\repo\Csharp-Code-Challenge\obj\Debug\net9.0\Csharp-Code-Challenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course Helper\repo\Csharp-Code-Challenge\obj\Debug\net9.0\Csharp-Code-Challenge.AssemblyInfoInputs.cache
+D:\Course Helper\repo\Csharp-Code-Challenge\obj\Debug\net9.0\Csharp-Code-Challenge.AssemblyInfo.cs
+D:\Course Helper\repo\Csharp-Code-Challenge\obj\Debug\net9.0\Csharp-Code-Challenge.csproj.CoreCompileInputs.cache
+D:\Course Helper\repo\Csharp-Code-Challenge\obj\Debug\net9.0\Csharp-Code-Challenge.dll
+D:\Course Helper\repo\Csharp-Code-Challenge\obj\Debug\net9.0\refint\Csharp-Code-Challenge.dll
+D:\Course Helper\repo\Csharp-Code-Challenge\obj\Debug\net9.0\Csharp-Code-Challenge.pdb
+D:\Course Helper\repo\Csharp-Code-Challenge\obj\Debug\net9.0\Csharp-Code-Challenge.genruntimeconfig.cache
+D:\Course Helper\repo\Csharp-Code-Challenge\obj\Debug\net9.0\ref\Csharp-Code-Challenge.dll
